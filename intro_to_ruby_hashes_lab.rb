@@ -9,8 +9,8 @@ end
 
 def monopoly
 	monopoly = {
-		:railroads => {}, 
-		:keys => {count: 1}, 
+		:railroads => {},
+		:keys => {count: 1},
 		:values =>[{}]
 	}
 
